@@ -19,12 +19,6 @@
   <img src="https://skillicons.dev/icons?i=py,rust,vscode,git,docker,linux&theme=dark" />
 </p>
 
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/3fb950/hopelanio123-eng" alt="Contribution graph" />
-</p>
-
 ### ⏱️ Coding Activity
 
 <!--START_SECTION:waka-->
