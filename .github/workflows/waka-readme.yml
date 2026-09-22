@@ -21,7 +21,6 @@ jobs:
           SECTION_NAME: waka
 
           # --- Что показываем (False = скрыть мусор, True = оставить) ---
-          SHOW_TITLE: "True"
           SHOW_TOTAL_CODE_TIME: "True"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_LINES_OF_CODE: "False"
