@@ -22,4 +22,36 @@
 ### ⏱️ Coding Activity
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%208%20mins-blue?style=flat-square)
+
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   1 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Tuesday                  6 commits           ██████████████░░░░░░░░░░░   54.55 % 
+Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   4 commits           █████████░░░░░░░░░░░░░░░░   36.36 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Python                   51 mins             ████████░░░░░░░░░░░░░░░░░   33.08 % 
+Other                    32 mins             █████░░░░░░░░░░░░░░░░░░░░   20.52 % 
+JSON                     25 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
+Rust                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
+Markdown                 12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
+
+🔥 Editors: 
+OpenCode                 2 hrs               ███████████████████░░░░░░   76.72 % 
+Codex Vscode             36 mins             ██████░░░░░░░░░░░░░░░░░░░   23.28 % 
+```
+
+
+ Last Updated on 22/09/2026 12:34:16 UTC
 <!--END_SECTION:waka-->
