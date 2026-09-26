@@ -41,17 +41,18 @@ Sunday                   4 commits           █████████░░�
 
 ```text
 💬 Programming Languages: 
-Other                    3 hrs 18 mins       █████████░░░░░░░░░░░░░░░░   37.38 % 
-Python                   1 hr 15 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
-Lua                      1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
-JavaScript               50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
-JSON                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
+JavaScript               6 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   29.35 % 
+Lua                      5 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   26.25 % 
+Other                    4 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   22.09 % 
+Python                   1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+JSON                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
 
 🔥 Editors: 
-OpenCode                 7 hrs 33 mins       █████████████████████░░░░   85.28 % 
-Codex Vscode             1 hr 18 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+OpenCode                 9 hrs 11 mins       ███████████░░░░░░░░░░░░░░   44.80 % 
+Opencode Desktop         8 hrs 22 mins       ██████████░░░░░░░░░░░░░░░   40.83 % 
+Codex Vscode             2 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
 ```
 
 
- Last Updated on 25/09/2026 03:47:57 UTC
+ Last Updated on 26/09/2026 03:54:09 UTC
 <!--END_SECTION:waka-->
