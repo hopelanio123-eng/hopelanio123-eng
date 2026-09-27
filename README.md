@@ -1,6 +1,8 @@
 <div align="center">
 
-### Hi there 👋, I'm hopelanio123-eng
+  <img src="banner.jpg" width="100%" alt="banner" />
+
+  ### Hi there 👋, I'm hopelanio123-eng
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3FB950&center=true&width=435&lines=Python+Developer;Rust+Explorer;Always+learning+new+things" alt="Typing SVG" />
 
