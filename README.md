@@ -15,4 +15,19 @@ Student developer. I build Python CLI tools and Windows automation, work with Lu
 ### ⏱️ Coding Activity
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-23%20hrs%2040%20mins-blue?style=flat-square)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Lua                      14 hrs 45 mins      █████████░░░░░░░░░░░░░░░░   35.10 % 
+JavaScript               10 hrs 22 mins      ██████░░░░░░░░░░░░░░░░░░░   24.67 % 
+Other                    5 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
+Python                   5 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
+Markdown                 2 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+```
+
+
+ Last Updated on 27/09/2026 22:29:03 UTC
 <!--END_SECTION:waka-->
