@@ -1,30 +1,22 @@
 <div align="center">
-
   <img src="banner.png" width="100%" alt="banner" />
-
-  ### Hi there 👋, I'm Norman
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3FB950&center=true&width=500&lines=Python+Lua+JS;Rust+Explorer;Just+a+teen+who+codes" alt="Typing SVG" />
-  <br>
-
-  <img src="https://komarev.com/ghpvc/?username=hopelanio123-eng&style=flat-square&color=3fb950" alt="Profile views" />
-  <br>
-
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" alt="Lua" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-
 </div>
 
----
+## about
 
-### 🛠️ Tech Stack
+16-year-old developer. I build Python CLI tools and Windows automation, play with Lua and JavaScript, and I'm exploring Rust.
+
+## core skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,lua,js,rust,vscode,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,lua,js,html,rust,vscode,git&theme=dark" />
 </p>
+
+- languages: python • lua • javascript • html • markdown • rust (learning)
+- building: CLI tools (openai, pillow, pymupdf) • .bat automation • small scripts
+- tools: git • vscode • opencode • pytest / ruff / mypy • wakatime
+
+---
 
 ### ⏱️ Coding Activity
 
