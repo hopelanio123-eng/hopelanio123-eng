@@ -8,9 +8,7 @@
 
 ## core skills
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,lua,js,html,rust,vscode,git&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=py,lua,js,html,rust,vscode,git&theme=dark" />
 
 - languages: python • lua • javascript • html • markdown • rust (learning)
 - building: CLI tools (openai, pillow, pymupdf) • .bat automation • small scripts
