@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="banner.jpg" width="100%" alt="banner" />
+  <img src="banner.png" width="100%" alt="banner" />
 
   ### Hi there 👋, I'm hopelanio123-eng
 
