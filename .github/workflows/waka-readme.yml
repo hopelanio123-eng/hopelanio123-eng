@@ -20,7 +20,6 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SECTION_NAME: waka
 
-          # --- Что показываем (False = скрыть мусор, True = оставить) ---
           SHOW_TOTAL_CODE_TIME: "True"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_LINES_OF_CODE: "False"
@@ -38,9 +37,8 @@ jobs:
           SHOW_AI_CODE_TIME: "False"
           SHOW_AI_CODING: "False"
 
-          # --- Аккуратные текстовые бары (SVG GitHub вырезает, поэтому text) ---
           BAR_STYLE: "text"
           SYMBOL_VERSION: "1"
           BADGE_STYLE: "flat-square"
           LOCALE: "en"
-          COMMIT_MESSAGE: "Update readme with WakaTime stats 🎨"
+          COMMIT_MESSAGE: "chore: update wakatime stats"
