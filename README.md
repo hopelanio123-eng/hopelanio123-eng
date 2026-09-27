@@ -2,9 +2,9 @@
 
   <img src="banner.png" width="100%" alt="banner" />
 
-  ### Hi there 👋, I'm hopelanio123-eng
+  ### Hi there 👋, I'm Norman
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3FB950&center=true&width=435&lines=Python+Developer;Rust+Explorer;Always+learning+new+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3FB950&center=true&width=500&lines=I'm+Norman;Python+Lua+JS;Rust+Explorer;Just+a+teen+who+codes" alt="Typing SVG" />
   <br>
 
   <img src="https://komarev.com/ghpvc/?username=hopelanio123-eng&style=flat-square&color=3fb950" alt="Profile views" />
