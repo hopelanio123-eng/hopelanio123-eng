@@ -8,6 +8,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=hopelanio123-eng&style=flat-square&color=3fb950" alt="Profile views" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" alt="Lua" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
 <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 
@@ -18,7 +20,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,rust,vscode,git,docker,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,lua,js,rust,vscode,git&theme=dark" />
 </p>
 
 ### ⏱️ Coding Activity
