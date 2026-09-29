@@ -21,13 +21,13 @@ Student developer. I build Python CLI tools and Windows automation, work with Lu
 
 ```text
 💬 Programming Languages: 
-Lua                      14 hrs 45 mins      █████████░░░░░░░░░░░░░░░░   35.10 % 
-JavaScript               10 hrs 22 mins      ██████░░░░░░░░░░░░░░░░░░░   24.67 % 
-Other                    5 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-Python                   5 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-Markdown                 2 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+Lua                      14 hrs 45 mins      █████████░░░░░░░░░░░░░░░░   35.20 % 
+JavaScript               10 hrs 22 mins      ██████░░░░░░░░░░░░░░░░░░░   24.74 % 
+Other                    5 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
+Python                   5 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
+Markdown                 2 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
 ```
 
 
- Last Updated on 28/09/2026 04:04:52 UTC
+ Last Updated on 29/09/2026 04:38:06 UTC
 <!--END_SECTION:waka-->
