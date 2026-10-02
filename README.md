@@ -15,19 +15,19 @@ Student developer. I build Python CLI tools and Windows automation, work with Lu
 ### ⏱️ Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-26%20hrs%2057%20mins-blue?style=flat-square)
+![Code Time](http://img.shields.io/badge/Code%20Time-31%20hrs%2019%20mins-blue?style=flat-square)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Lua                      13 hrs 40 mins      ████████░░░░░░░░░░░░░░░░░   32.33 % 
-JavaScript               9 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   22.21 % 
-Python                   6 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
-Other                    5 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
-Markdown                 3 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+Python                   6 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   21.80 % 
+Other                    5 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
+JavaScript               5 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
+Lua                      4 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
+Markdown                 4 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
 ```
 
 
- Last Updated on 01/10/2026 04:33:29 UTC
+ Last Updated on 02/10/2026 04:26:04 UTC
 <!--END_SECTION:waka-->
