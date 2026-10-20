@@ -16,7 +16,7 @@ Student developer. I build Python CLI tools and Windows automation, work with Lu
 
 <!--START_SECTION:waka-->
 ![Code Time](https://img.shields.io/badge/Code%20Time-90%20hrs%2055%20mins-blue?style=flat-square)
-![This Week](https://img.shields.io/badge/This%20Week-26%20hrs%2013%20mins-green?style=flat-square)
+![This Week](https://img.shields.io/badge/This%20Week-28%20hrs-green?style=flat-square)
 ![Top Language](https://img.shields.io/badge/Top%20Language-TypeScript-orange?style=flat-square)
 
 **Total code time: 90 hrs 55 mins** (all time, since 2026-09-18)
@@ -46,23 +46,25 @@ Git Config               17 mins             ░░░░░░░░░░░�
 Makefile                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 ```
 
-📊 **This week - 26 hrs 13 mins** (last 7 days)
+📊 **This week - 28 hrs** (last 7 days)
 
 ```text
-TypeScript               12 hrs 27 mins      ███████████░░░░░░░░░░░░░░   44.53 % 
-Markdown                 7 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   27.86 % 
-CSS                      2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
-Other                    1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
-Python                   1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
-PowerShell               1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
-JSON                     29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
-Image (png)              25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-Text                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
-JavaScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
-HTML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
-C++                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
-YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
-Rust                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+TypeScript               13 hrs              ███████████░░░░░░░░░░░░░░   43.72 % 
+Markdown                 8 hrs 21 mins       ███████░░░░░░░░░░░░░░░░░░   28.09 % 
+CSS                      1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
+Other                    1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+Python                   1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+PowerShell               1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+JSON                     31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+Image (png)              25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+Rust                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+Text                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+Go                       9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+YAML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+JavaScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+HTML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+C++                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Batchfile                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 ```
 
 <details>
@@ -71,33 +73,34 @@ Rust                     1 min               ░░░░░░░░░░░�
 **Projects this week**
 
 ```text
-anime                    23 hrs 38 mins      █████████████████████░░░░   84.46 % 
-discordorbs              1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
-teleboss                 1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
-информатика              29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
-история                  29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
-frelancehant             17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
-16.10.26                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
-avito                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+anime                    24 hrs 3 mins       ████████████████████░░░░░   80.86 % 
+teleboss                 2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+discordorbs              1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+информатика              29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+история                  29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+tg                       22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+frelancehant             17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+16.10.26                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+wakatime                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 ```
 
 **Editors this week**
 
 ```text
-OpenCode                 22 hrs 17 mins      ████████████████████░░░░░   79.68 % 
-Opencode Cli             2 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
-Opencode Desktop         2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
-Antigravity Desktop      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+OpenCode                 24 hrs 3 mins       ████████████████████░░░░░   80.88 % 
+Opencode Cli             2 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
+Opencode Desktop         2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
+Antigravity Desktop      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 ```
 
 **OS this week**
 
 ```text
-Windows                  27 hrs 59 mins      █████████████████████████   100.00 % 
+Windows                  29 hrs 44 mins      █████████████████████████   100.00 % 
 ```
 
 </details>
 
 
- Last Updated on 19/10/2026 19:34:43 UTC
+ Last Updated on 20/10/2026 03:45:24 UTC
 <!--END_SECTION:waka-->
