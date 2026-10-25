@@ -39,6 +39,10 @@ SECTION = os.environ.get("SECTION_NAME", "waka")
 TOP_N = int(os.environ.get("TOP_N", "20"))
 MIN_PERCENT = float(os.environ.get("MIN_PERCENT", "0.1"))
 
+# Hours added on top of the real all-time total. The extra time is spread
+# across languages proportionally, so percentages and order stay unchanged.
+ALL_TIME_BOOST_HOURS = float(os.environ.get("ALL_TIME_BOOST_HOURS", "0"))
+
 BAR_WIDTH = 25
 
 
@@ -117,6 +121,19 @@ def build(all_time, week):
 
     total_all = a.get("human_readable_total") or human(a.get("total_seconds", 0))
     total_week = w.get("human_readable_total") or human(w.get("total_seconds", 0))
+
+    # Boost the all-time numbers: add ALL_TIME_BOOST_HOURS to the total and
+    # scale every language row by the same factor, keeping real percentages.
+    boost_seconds = ALL_TIME_BOOST_HOURS * 3600
+    if boost_seconds:
+        base_seconds = a.get("total_seconds", 0) or sum(r[3] for r in all_langs)
+        if base_seconds:
+            factor = 1 + boost_seconds / base_seconds
+            all_langs = [
+                (name, human(seconds * factor), percent, seconds)
+                for name, text, percent, seconds in all_langs
+            ]
+            total_all = human(base_seconds + boost_seconds)
 
     top_lang = all_langs[0][0] if all_langs else "?"
 

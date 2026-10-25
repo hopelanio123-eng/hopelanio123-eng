@@ -30,6 +30,7 @@ jobs:
           SECTION_NAME: waka
           TOP_N: '20'
           MIN_PERCENT: '0.1'
+          ALL_TIME_BOOST_HOURS: '1300'
         run: python .github/scripts/waka_update.py
 
       - name: Commit changes
