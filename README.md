@@ -15,60 +15,60 @@ Student developer. I build Python CLI tools and Windows automation, work with Lu
 ### ⏱️ Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](https://img.shields.io/badge/Code%20Time-1417%20hrs%2016%20mins-blue?style=flat-square)
-![This Week](https://img.shields.io/badge/This%20Week-26%20hrs%2045%20mins-green?style=flat-square)
+![Code Time](https://img.shields.io/badge/Code%20Time-1421%20hrs%2030%20mins-blue?style=flat-square)
+![This Week](https://img.shields.io/badge/This%20Week-17%20hrs%2023%20mins-green?style=flat-square)
 ![Top Language](https://img.shields.io/badge/Top%20Language-TypeScript-orange?style=flat-square)
 
-**Total code time: 1417 hrs 16 mins** (all time, since 2026-09-18)
+**Total code time: 1421 hrs 30 mins** (all time, since 2026-09-18)
 
 📊 **All time - Programming Languages**
 
 ```text
-TypeScript               466 hrs 44 mins     ███████░░░░░░░░░░░░░░░░░░   29.26 % 
-Markdown                 271 hrs 13 mins     ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
-Python                   232 hrs 25 mins     ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
-Other                    177 hrs 47 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
-JavaScript               94 hrs 15 mins      █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
-CSS                      70 hrs 52 mins      █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-Lua                      65 hrs 3 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-Rust                     36 hrs 20 mins      █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
-Image (png)              32 hrs 19 mins      █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
-JSON                     29 hrs 20 mins      ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
-PowerShell               27 hrs 20 mins      ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
-YAML                     19 hrs 50 mins      ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
-Batchfile                14 hrs 32 mins      ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
-Text                     12 hrs 7 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
-HTML                     9 hrs 12 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
-Image (jpeg)             7 hrs 44 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
-TOML                     6 hrs 46 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
-Bash                     5 hrs 17 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
-Git Config               3 hrs 32 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
-Makefile                 2 hrs 51 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+TypeScript               452 hrs 10 mins     ███████░░░░░░░░░░░░░░░░░░   28.35 % 
+Markdown                 266 hrs 24 mins     ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
+Python                   225 hrs 1 mins      ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+Other                    173 hrs 39 mins     ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
+JavaScript               92 hrs 3 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+CSS                      71 hrs 44 mins      █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+Lua                      62 hrs 58 mins      █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+Rust                     57 hrs 49 mins      █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+Image (png)              40 hrs 15 mins      █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+JSON                     28 hrs 24 mins      ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+PowerShell               28 hrs 10 mins      ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+YAML                     19 hrs 12 mins      ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+Text                     14 hrs 50 mins      ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+Batchfile                14 hrs 14 mins      ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+HTML                     10 hrs 6 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+Image (jpeg)             7 hrs 29 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+TOML                     7 hrs 26 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+Bash                     5 hrs 35 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Git Config               3 hrs 25 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Makefile                 2 hrs 45 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 ```
 
-📊 **This week - 26 hrs 45 mins** (last 7 days)
+📊 **This week - 17 hrs 23 mins** (last 7 days)
 
 ```text
-Python                   8 hrs 27 mins       ███████░░░░░░░░░░░░░░░░░░   27.79 % 
-TypeScript               5 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
-Rust                     4 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
-Other                    3 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
-Image (png)              1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
-JavaScript               1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
-Markdown                 1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
-PowerShell               53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
-JSON                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
-HTML                     33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
-CSS                      31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
-Text                     25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
-TOML                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
-C                        13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
-Batchfile                6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
-Image (svg)              6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
-Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
-Diff                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
-TSConfig                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
-Valve Data Format        3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Other                    3 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
+Rust                     3 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
+Python                   3 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+TypeScript               2 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+Image (png)              1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
+JavaScript               1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
+Markdown                 1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
+JSON                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+PowerShell               37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+HTML                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+CSS                      32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+Text                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+C                        13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+TOML                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+Batchfile                6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Image (svg)              6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Image (jpeg)             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+D                        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 ```
 
 <details>
@@ -77,37 +77,36 @@ Valve Data Format        3 mins              ░░░░░░░░░░░�
 **Projects this week**
 
 ```text
-anime                    11 hrs 2 mins       █████████░░░░░░░░░░░░░░░░   36.30 % 
-proximity                8 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   29.44 % 
-discordorbs              2 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-teleboss                 2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
-история                  1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
-tg                       1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
-информатика              49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
-литра                    43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
-физика                   31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
-Dynamic-Island           14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
-windows-tools            9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
-koshkaremote             7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
-wakatime                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
-playerok-bot             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+proximity                9 hrs 36 mins       ████████████░░░░░░░░░░░░░   46.10 % 
+anime                    3 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
+discordorbs              2 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
+история                  1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
+информатика              49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+литра                    43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+tg                       41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+физика                   31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+teleboss                 22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+Dynamic-Island           14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+koshkaremote             7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+wakatime                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+playerok-bot             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 ```
 
 **Editors this week**
 
 ```text
-OpenCode                 19 hrs 48 mins      ████████████████░░░░░░░░░   65.11 % 
-Opencode Desktop         10 hrs 37 mins      █████████░░░░░░░░░░░░░░░░   34.89 % 
+Opencode Desktop         11 hrs 18 mins      ██████████████░░░░░░░░░░░   54.24 % 
+OpenCode                 9 hrs 32 mins       ███████████░░░░░░░░░░░░░░   45.76 % 
 ```
 
 **OS this week**
 
 ```text
-Windows                  30 hrs 26 mins      █████████████████████████   100.00 % 
+Windows                  20 hrs 50 mins      █████████████████████████   100.00 % 
 ```
 
 </details>
 
 
- Last Updated on 27/10/2026 03:59:47 UTC
+ Last Updated on 28/10/2026 04:24:33 UTC
 <!--END_SECTION:waka-->
